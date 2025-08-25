@@ -35,13 +35,13 @@ Interactive web-based pathfinding visualizer using BFS and DFS that allows users
 Custom implementation of the puzzle game **Flood It** with multiple board sizes, color sets, and a greedy-algorithm hint helper.
 
 ### [Minimax Tic-Tac-Toe](https://github.com/razahtet/MinimaxTicTacToe)
-A web-based tic-tac-toe game that allows the player to play against the computer, which uses minimax to compute the best move possible.
+The player can play tic-tac-toe against the computer, which will never lose against the player. It uses minimax to determine and play the next best possible move.
 
 ---
 
 ## In Progress
 
-**Future Golf Score Predictor**: An interactive web app (HTML, CSS, JS) that predicts a golf player's next score based on historical performance and practice metrics by implementing and experimenting with lasso regression, feature selection, and other machine learning algorithms, which will be fine-tuned in the Python backend.
+**Future Golf Score Predictor**: An interactive web app (HTML, CSS, JS) that predicts a golf player's next score based on historical performance and practice metrics by implementing and experimenting with lasso regression, random forest classification, feature selection, and other machine learning algorithms, which will be fine-tuned in the Python backend.
 
 ---
 
