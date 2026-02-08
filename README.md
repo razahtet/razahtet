@@ -46,7 +46,7 @@ The player can play tic-tac-toe against the computer, which will never lose agai
 ---
 
 ## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/razahlaing) • [Email](mailto:hlaing.r@northeastern.edu) • [GitHub](https://github.com/razahtet)
+[LinkedIn](https://www.linkedin.com/in/razahlaing) • [Email](mailto:hlaing.r@northeastern.edu)
 
 
 <!--
