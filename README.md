@@ -29,7 +29,7 @@ I’m a Computer Science student at **Northeastern University** with a passion f
 Constraint-based Team allocation tool that can group 200+ participants randomly while ensuring incompatible participants are not placed together in less than two seconds.
 
 ### [Shortest Path & Route Finder](https://github.com/razahtet/ShortestPathFinder)
-Interactive web-based pathfinding visualizer using DFS that allows users to create nodes, search by name, and find the shortest path and all other possible routes with real-time canvas visualization.
+Interactive web-based pathfinding visualizer using BFS and DFS that allows users to create nodes, search by name, and find the shortest path and all other possible routes with real-time canvas visualization.
 
 ### [Flood It Game](https://github.com/razahtet/floodit)
 Custom implementation of the puzzle game **Flood It** with multiple board sizes, color sets, and a greedy-algorithm hint helper.
