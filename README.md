@@ -5,6 +5,8 @@ I’m a Computer Science student at **Northeastern University** with a passion f
 ---
 ## Use To Code
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -19,11 +21,14 @@ I’m a Computer Science student at **Northeastern University** with a passion f
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Other Technical Skills 
-**Machine Learning:** PyTorch, TensorFlow | **Databases:** PostgreSQL, MongoDB | **Developer Tools:** Docker, Linux, Jupyter Notebook
+**Machine Learning:** PyTorch, OpenCV, TensorFlow | **Databases:** PostgreSQL, MongoDB | **Developer Tools:** Docker, Linux, Jupyter Notebook
 
 ---
 
 ## Featured Projects
+
+### [Black-Scholes Option Pricing Simulation](https://github.com/razahtet/black-scholes-option-pricing)
+A Python-based Monte Carlo simulation that generates over 10,000 price paths with simulated volatility spikes to model European Call Options. It compares the impact of implied vs. historical volatility on option pricing using live market data via *yfinance*.
 
 ### [Randomizing Groups Simulator](https://github.com/razahtet/RandomizingGroupsSimulator)
 Constraint-based Team allocation tool that can group 200+ participants randomly while ensuring incompatible participants are not placed together in less than two seconds.
@@ -41,7 +46,8 @@ The player can play tic-tac-toe against the computer, which will never lose agai
 
 ## In Progress
 
-**Black-Scholes Option Pricing Simulation**: In-progress Python project implementing Monte Carlo price simulations and the Black–Scholes model for option pricing analysis.
+* **Black-Scholes Option Pricing Simulation**: Currently extending the model to work on multi-leg strategies—such as call debit spreads—to test and compare its performance against naked calls across simulated volatility spikes.
+* **Real-Time Speech Emotion Recognition**: Building a deep learning system that transforms raw audio into spectograms for multi-class emotion classification using **CNNs** and **PyTorch**.
 
 ---
 
