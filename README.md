@@ -47,7 +47,7 @@ The player can play tic-tac-toe against the computer, which will never lose agai
 ## In Progress
 
 * **Black-Scholes Option Pricing Simulation**: Currently extending the model to work on multi-leg strategies such as call debit spreads to test and compare its performance against naked buy calls across simulated volatility spikes.
-* **Real-Time Speech Emotion Recognition**: Building a deep learning system that transforms raw audio into spectograms for multi-class emotion classification using **CNNs** and **PyTorch**.
+* [Real-Time Speech Emotion Recognition](https://github.com/razahtet/EmotionRecognitionSystem): Building a deep learning system that transforms raw audio into spectograms for multi-class emotion classification using **CNNs** and **PyTorch**.
 
 ---
 
