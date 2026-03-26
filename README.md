@@ -30,8 +30,11 @@ I’m a Computer Science student at **Northeastern University** with a passion f
 ### [Black-Scholes Option Pricing Simulation](https://github.com/razahtet/black-scholes-option-pricing)
 A Python-based Monte Carlo simulation that generates over 10,000 price paths with simulated volatility spikes to model European Call Options. It compares the impact of implied vs. historical volatility on option pricing using live market data via *yfinance*.
 
-### [Randomizing Groups Simulator](https://github.com/razahtet/RandomizingGroupsSimulator)
-Constraint-based Team allocation tool that can group 200+ participants randomly while ensuring incompatible participants are not placed together in less than two seconds.
+### [Connect 4 RL Solver](https://github.com/krishangra/connect4-ai-solver)
+Implemented and trained a Tabular Q-Learning Connect 4 Agent over 500K episodes with self-play against random-move playing opponents and heuristic opponents.
+
+### [Three Trios Game: Turn-Based Strategy GAme](https://github.com/razahtet/ThreeTriosGame)
+A turn-based strategy game built with Object-Oriented Principles and a focus on modular architecture, featuring AI-style logic for real-time move simulations.
 
 ### [Shortest Path & Route Finder](https://github.com/razahtet/ShortestPathFinder)
 Interactive web-based pathfinding visualizer using BFS and DFS that allows users to create nodes, search by name, and find the shortest path and all other possible routes with real-time canvas visualization.
@@ -39,15 +42,12 @@ Interactive web-based pathfinding visualizer using BFS and DFS that allows users
 ### [Flood It Game](https://github.com/razahtet/floodit)
 Custom implementation of the puzzle game **Flood It** with multiple board sizes, color sets, and a greedy-algorithm hint helper.
 
-### [Minimax Tic-Tac-Toe](https://github.com/razahtet/MinimaxTicTacToe)
-The player can play tic-tac-toe against the computer, which will never lose against the player. It uses minimax to determine and play the next best possible move.
-
 ---
 
 ## In Progress
 
 * **Black-Scholes Option Pricing Simulation**: Currently extending the model to work on multi-leg strategies such as call debit spreads to test and compare its performance against naked buy calls across simulated volatility spikes.
-* [Real-Time Speech Emotion Recognition](https://github.com/razahtet/EmotionRecognitionSystem): Building a deep learning system that transforms raw audio into spectograms for multi-class emotion classification using **CNNs** and **PyTorch**.
+* **[Real-Time Speech Emotion Recognition](https://github.com/razahtet/EmotionRecognitionSystem)**: Building a deep learning system that transforms raw audio into spectograms for multi-class emotion classification using **CNNs** and **PyTorch**.
 
 ---
 
